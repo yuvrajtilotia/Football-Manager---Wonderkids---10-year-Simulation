@@ -25,6 +25,7 @@ Step by Step process excercised to achieve this result.
 - YT
 
 /* I'll be uploading the save file for people who want to time skip ahead 10 years and start their careers from then on. */
+/* The file size for the save file exceeds the allowed limit to upload on GitHub. I am providing a google drive shareable link :- https://drive.google.com/file/d/1k_tyD-2t1ED6oKcC5xQWtRK7sbvO9LKi/view?usp=sharing
 
 Further updation coming in future :-
 
