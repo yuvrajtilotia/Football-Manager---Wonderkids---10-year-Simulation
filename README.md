@@ -14,7 +14,7 @@ Step by Step process excercised to achieve this result.
 8. I did some modulation to find out the Goalkeeping, Mental, Physical, Technical and Hidden attributes's scores. This allows for an easy comparison with other players.
 9. This will provide the base for the simulations. 
 10. Go to FM. Start a 5 year simulation.
-11. After 5 years, go to your player shortlist panel. Perform the same operation as before to list down all attributes. The saved view cannot be used in shortlist panel. So you'll have to manually create the same view again. After completion, use the print screen option to export out the data.
+11. After 5 years, go to your player shortlist panel. Perform the same operation as before to list down all attributes. The saved view cannot be used in shortlist panel. So you'll     have to manually create the same view again. After completion, use the print screen option to export out the data.
 12. Now you can transfer the new 5 year simulated data, to a new sheet in the same excel file for comparison.
 13. Go to Fm. Start another 5 year simulation.
 14. After total of 10 years, perform the same operations as before to export out the data from the game.
@@ -24,6 +24,7 @@ Step by Step process excercised to achieve this result.
 
 - YT
 
+/* I'll be uploading the save file for people who want to time skip ahead 10 years and start their careers from then on. */
 
 Further updation coming in future :-
 
